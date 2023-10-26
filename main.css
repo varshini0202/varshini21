@@ -1,0 +1,64 @@
+main.css */
+
+body {
+font-family: Arial, HElvetica sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f0f0f0;
+}
+
+header {
+background-color: #333;
+color: #fff;
+text-align: center;
+padding: 2rem 0;
+position: relative;
+}
+
+.header-constant h1 {
+font-size: 2.5rem;
+}
+
+.section-content {
+background-color: #fff;
+padding: 2rem;
+margin: 1rem;
+border-radius: 20px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+text-align: center;
+padding: 1rem o;
+background-color: #333;
+color: #fff;
+}
+
+ul {
+list-style-type: lower-alpha;
+padding-left: 20px;
+}
+
+/* main.css */
+
+/* Existing styles... */
+
+.nav-buttons li {
+   display: inline:
+margin: 10px;
+}
+
+.nav buttons a {
+display: inline-block;
+padding: 10px 20px;
+background-color: #333;
+color: #fff;
+text-decoration: none;
+border-radius: 5px;
+cursor: pointer;
+transition: background-color 0.3s ease;
+}
+
+.nav-buttons a:hover {
+ background-color: #555;
+ }
